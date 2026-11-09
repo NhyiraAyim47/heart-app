@@ -1,4 +1,0 @@
-fastapi
-scikit-learn==1.x.x
-pandas
-joblib
